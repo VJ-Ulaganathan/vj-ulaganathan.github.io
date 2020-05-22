@@ -3,7 +3,7 @@
 Supplementary Data Page for Scientific Reports 2020 paper
 For online access to complete supplemental data figures from **S4** to **S13**, please click the link below
 
-[**ENTER**](Supplementary Fig.S4-S13.html)
+[**ENTER**](Supplementary Fig.S4-S13.pdf)
 
 
 
